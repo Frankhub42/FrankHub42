@@ -11,6 +11,10 @@ I'm beginning my journey in the dev world, still figuring out what to specialize
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frankhub42&repo=Tik-Tok-clone-project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frankhub42)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Frankhub42/FrankHub42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
